@@ -1,1 +1,1 @@
-# [cv Website Link](https://avaswin.github.io/cv/)
+# [CV - website link](https://avaswin.github.io/cv/)
